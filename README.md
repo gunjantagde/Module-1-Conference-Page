@@ -56,3 +56,14 @@
             <td>Closing Ceremony & Awards</td>
         </tr>
         </table>
+<div class="box">
+
+        <h2>Speakers</h2>
+        <p><b>John Smith</b> - Software Engineer</p>
+        <p><b>Lisa Ray</b> - AI Specialist</p>
+        <p><b>David Kim</b> - Cybersecurity Specialist</p>
+        <p><b>Sophia Brown</b> - Cloud Computing Engineer</p>
+        <p><b>James Wilson</b> - Full Stack Developer</p>
+        <p><b>Michael Chen</b> - Blockchain Developer</p>
+        
+</div>
