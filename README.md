@@ -67,3 +67,12 @@
         <p><b>Michael Chen</b> - Blockchain Developer</p>
         
 </div>
+<div class="box">
+
+        <h2>Register</h2>
+        <form>
+            Name:
+            <input type="text" required><br>
+
+            Email:
+            <input type="email" required><br>
