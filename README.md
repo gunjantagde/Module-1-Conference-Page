@@ -35,3 +35,24 @@
             <td>11:00 AM</td>
             <td>AI & Machine Learning Workshop</td>
         </tr>
+<tr>
+            <td>12:30 PM</td>
+            <td>Lunch Break</td>
+        </tr>
+        <tr>
+            <td>1:30 PM</td>
+            <td>Web Development Trends 2024</td>
+        </tr>
+        <tr>
+            <td>2:30 PM</td>
+            <td>Cybersecurity Awareness Session</td>
+        </tr>
+        <tr>
+            <td>3:30 PM</td>
+            <td>Networking & Startup Pitch</td>
+        </tr>
+        <tr>
+            <td>5:30 PM</td>
+            <td>Closing Ceremony & Awards</td>
+        </tr>
+        </table>
