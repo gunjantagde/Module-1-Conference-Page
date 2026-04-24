@@ -84,3 +84,10 @@
             </select><br>
 Availability:
             <progress value="70" max="100"></progress><br>
+<button type="submit">Register</button><br>
+        </form>
+    </div>
+</div>
+
+</body>
+</html>
