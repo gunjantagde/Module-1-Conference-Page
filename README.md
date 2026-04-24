@@ -12,3 +12,10 @@
     <p>Explore Future Technology</p>
 
 </header>
+<h2>Schedule</h2>
+        <thead>
+
+            <tr>
+            <th>Time</th>
+            <th>Event</th>
+        </tr>
