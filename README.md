@@ -19,3 +19,19 @@
             <th>Time</th>
             <th>Event</th>
         </tr>
+<tr>
+            <td>8:30 AM</td>
+            <td>Registration & Welcome Distribution</td>
+        </tr>
+        <tr>
+            <td>9:00 AM</td>
+            <td>Opening Ceremony</td>
+        </tr>
+        <tr>
+            <td>10:00 AM</td>
+            <td>Keynote Speech: Future of Technology</td>
+        </tr>
+        <tr>
+            <td>11:00 AM</td>
+            <td>AI & Machine Learning Workshop</td>
+        </tr>
