@@ -76,3 +76,9 @@
 
             Email:
             <input type="email" required><br>
+ Ticket Type:
+            <select>
+                <option>Standard</option>
+                <option>VIP</option>
+                <option>Premium</option>
+            </select><br>
