@@ -3,6 +3,7 @@
 <head>
 
     <title>TechFront 2024</title>
+
 </head>
 <body>
     <table border="i 3px">
@@ -12,14 +13,15 @@
     <p>Explore Future Technology</p>
 
 </header>
-<h2>Schedule</h2>
+
+        <h2>Schedule</h2>
         <thead>
 
             <tr>
             <th>Time</th>
             <th>Event</th>
         </tr>
-<tr>
+        <tr>
             <td>8:30 AM</td>
             <td>Registration & Welcome Distribution</td>
         </tr>
@@ -35,7 +37,7 @@
             <td>11:00 AM</td>
             <td>AI & Machine Learning Workshop</td>
         </tr>
-<tr>
+        <tr>
             <td>12:30 PM</td>
             <td>Lunch Break</td>
         </tr>
@@ -56,7 +58,8 @@
             <td>Closing Ceremony & Awards</td>
         </tr>
         </table>
-<div class="box">
+
+    <div class="box">
 
         <h2>Speakers</h2>
         <p><b>John Smith</b> - Software Engineer</p>
@@ -67,7 +70,8 @@
         <p><b>Michael Chen</b> - Blockchain Developer</p>
         
 </div>
-<div class="box">
+
+    <div class="box">
 
         <h2>Register</h2>
         <form>
@@ -76,15 +80,18 @@
 
             Email:
             <input type="email" required><br>
- Ticket Type:
+
+            Ticket Type:
             <select>
                 <option>Standard</option>
                 <option>VIP</option>
                 <option>Premium</option>
             </select><br>
-Availability:
+
+            Availability:
             <progress value="70" max="100"></progress><br>
-<button type="submit">Register</button><br>
+
+            <button type="submit">Register</button><br>
         </form>
     </div>
 </div>
