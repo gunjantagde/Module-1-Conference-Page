@@ -82,3 +82,5 @@
                 <option>VIP</option>
                 <option>Premium</option>
             </select><br>
+Availability:
+            <progress value="70" max="100"></progress><br>
